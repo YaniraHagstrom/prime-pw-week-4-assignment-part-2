@@ -3,18 +3,29 @@ header {
     background-color: darkcyan;
 }
 
+body {
+    max-width: 50%;
+    /* display: block; */
+    margin: auto;
+}
+
 .info h2 {
     background-color: lightgray;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: darkblue;
+    text-align: center;
 }
 
-.car {
-    size: 540px;
-    align-items: center;
+img {
+    width: 75%;
+    height: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h3 {
     background-color: black;
     color: lightblue;
+    text-align: center;
 }
