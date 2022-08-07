@@ -1,0 +1,20 @@
+
+header {
+    background-color: darkcyan;
+}
+
+.info h2 {
+    background-color: lightgray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkblue;
+}
+
+.car {
+    size: 540px;
+    align-items: center;
+}
+
+h3 {
+    background-color: black;
+    color: lightblue;
+}
